@@ -6,11 +6,11 @@
       .titulo-principal__numero
         span 3
       h1 Protocolos para el aseguramiento en la reanimación del paciente
-    .cajon-b.color-acento-contenido.mb-5.py-2
-      .row.align-items-center
-        .col-auto
+    .cajon-b.color-acento-contenido.mb-4.py-2
+      .row.align-items-center.justify-content-center
+        .col-auto.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/39.svg', alt='')  
-        .col-11
+        .col-11.my-3
           p(data-aos="fade-down") Los protocolos y técnicas en el aseguramiento para aquellos eventos que se presenten en los accidentes de tránsito tienen como objetivo preservar la vida del paciente.
 
           p(data-aos="fade-down").mb-0 Para el aseguramiento en el lugar del siniestro vial, se debe evaluar a la víctima para su posterior traslado, es importante resaltar que dicho traslado solo se debe efectuar en casos extremos en los que el accidentado se encuentre en riesgo de muerte como los causados por: incendios, electrocución, asfixia, inundaciones y atrapamiento, entre otros, por lo cual en dichos casos este se debe efectuar teniendo como prioridad salvaguardar la vida, procurando que el cuerpo se mueva lo menos posible. A continuación, se muestran algunas técnicas:  
@@ -26,41 +26,41 @@
     .tarjeta.tarjeta--azul.p-5.mb-5
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-start
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.col-md-12.mb-4.mb-md-4
             p Se debe hacer la estabilización manual de la cabeza y el cuello.        
-          .col-md-6
+          .col-lg-6.col-md-12
             img.img-a.img-t(src='@/assets/curso/temas/41.png', alt='')     
         .row.justify-content-center.align-items-start
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.col-md-12.mb-4.mb-md-4
             p Se debe establecer el lado de rotación del paciente teniendo en cuenta las lesiones que presenta.       
-          .col-md-6
+          .col-lg-6.col-md-12
             img.img-a.img-t(src='@/assets/curso/temas/42.png', alt='') 
         .row.justify-content-center.align-items-start
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.col-md-12.mb-4.mb-md-4
             p Se deberán alinear las extremidades superiores con los mínimos movimientos sin ejercer presión en el cuerpo, así mismo se alinearán las extremidades inferiores sujetando la pelvis y las rodillas del paciente.       
-          .col-md-6
+          .col-lg-6.col-md-12
             img.img-a.img-t(src='@/assets/curso/temas/43.png', alt='') 
         .row.justify-content-center.align-items-start
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.col-md-12.mb-4.mb-md-4
             p Se rotará el cuerpo del paciente hasta decúbito lateral derecho o izquierdo, según se requiera, si se dispone de una camilla o elemento que pueda cumplir su función se debe colocar en la espalda del paciente.   
-          .col-md-6
+          .col-lg-6.col-md-12
             img.img-a.img-t(src='@/assets/curso/temas/44.png', alt='') 
         .row.justify-content-center.align-items-start
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.col-md-12.mb-4.mb-md-4
             p Se rotará el cuerpo hasta decúbito supino con la ayuda de la camilla de manera que se efectúe la inmovilización cervical y se tenga control de las vías aéreas.        
-          .col-md-6
+          .col-lg-6.col-md-12
             img.img-a.img-t(src='@/assets/curso/temas/45.png', alt='') 
         .row.justify-content-center.align-items-start
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.col-md-12.mb-4.mb-md-4
             p De contarse con un collarín cervical se procederá a inmovilizar el cuello del paciente, de no contarse con el mismo, se debe procurar mantener la postura del cuello de manera manual.     
-          .col-md-6
+          .col-lg-6.col-md-12
             img.img-a.img-t(src='@/assets/curso/temas/46.png', alt='') 
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 4. 
       span Aseguramiento del paciente previo a la reanimación.
       
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-2(data-aos="fade-left")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/47.png')})`}"
       )

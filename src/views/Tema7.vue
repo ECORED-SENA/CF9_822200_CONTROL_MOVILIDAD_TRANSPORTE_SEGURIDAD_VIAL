@@ -33,18 +33,18 @@
         h4.col.ps-3.mb-0.text-white(data-aos="fade-right") Equipos de comunicación médica
 
     p(data-aos="fade-down").mb-5 En adición se cuentan con otra serie de equipos de comunicación que se describen a continuación: 
-    .row.justify-content-center.mb-5
-      .col-lg-4
+    .row.justify-content-center
+      .col-lg-4.my-3
         .bg10.p-4.brad.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/72.png' alt='')
           h4.text-center(data-aos="fade-down") Telefonía móvil 
           p.mb-0(data-aos="fade-down") Teléfonos móviles de tecnología digital, con capacidad de difusión y transmisión de información en diferentes modos (audios, videos, ubicación, entre otros), en algunos vehículos de emergencia se está implementando el sistema de tercera generación UMTS (Universal Mobile Telecommunications System).   
-      .col-lg-4
+      .col-lg-4.my-3
         .bg10.p-4.brad.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/73.png' alt='')
           h4.text-center.fst-italic(data-aos="fade-down") Red Trunking 
           p.mb-0(data-aos="fade-down") Sistema implementado por medio de antenas de repetición y microondas digitales que abarcan amplias áreas geográficas, permitiendo acceder a diferentes usuarios de forma simultánea, marcando directamente al número de destino de comunicación, permitiendo dar prioridad entre las llamadas recibidas.  
-      .col-lg-4
+      .col-lg-4.my-3
         .bg10.p-4.brad.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/74.png' alt='')
           h4.text-center.fst-italic(data-aos="fade-down") GPS (Global Positioning System) 

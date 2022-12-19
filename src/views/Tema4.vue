@@ -53,7 +53,7 @@
     .tarjeta.tarjeta--azul.p-5.mb-5
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-start
-          .col-md-5.mb-4.mb-md-0
+          .col-lg-5.col-md-12.mb-4.mb-md-4
             h4.mb-4 Evaluación inicial
             p La evaluación inicial consiste en poder identificar las condiciones que puedan poner en riesgo la vida de los pacientes, teniendo en cuenta lineamientos como:
             ul.lista-ul.mb-0
@@ -72,10 +72,10 @@
               li 
                 i.fas.fa-check.colorv
                 p.mb-0 Signos de afectación neurológica, tales como: desorientación, parálisis, desequilibrio o episodios de falta de reacción, entre otros.                   
-          .col-md-6
+          .col-lg-6.col-md-12
             img.img-a.img-t(src='@/assets/curso/temas/53.png', alt='')
         .row.justify-content-center.align-items-start
-          .col-md-5.mb-4.mb-md-0
+          .col-lg-5.col-md-12.mb-4.mb-md-4
             h4.mb-4 Reanimación
             p Previo a tomar la determinación de efectuar la reanimación de un paciente en el lugar del accidente se deben contemplar otros factores como: 
             ul.lista-ul.mb-0
@@ -88,10 +88,10 @@
               li 
                 i.fas.fa-check.colorv
                 p.mb-0 Los instrumentos y/o elementos para realizar una reanimación efectiva garantizando la seguridad del paciente, en caso que sea indispensable efectuarla se deben asegurar las vías aéreas y la ventilación controlando el pulso, la tensión arterial y el suministro de oxígeno al paciente.                   
-          .col-md-6
+          .col-lg-6.col-md-12
             img.img-a.img-t(src='@/assets/curso/temas/54.png', alt='') 
         .row.justify-content-center.align-items-start
-          .col-md-5.mb-4.mb-md-0
+          .col-lg-5.col-md-12.mb-4.mb-md-4
             h4.mb-4 Atención en el lugar del accidente
             p En la preparación pre hospitalaria en el lugar del accidente se debe:
             ul.lista-ul.mb-0
@@ -114,13 +114,13 @@
               li 
                 i.fas.fa-check
                 p.mb-0 Determinar el hospital adecuado para su atención con monitoreo continuo durante el recorrido.                                   
-          .col-md-6
+          .col-lg-6.col-md-12
             img.img-a.img-t(src='@/assets/curso/temas/55.png', alt='') 
         .row.justify-content-center.align-items-start
-          .col-md-5.mb-4.mb-md-0
+          .col-lg-5.col-md-12.mb-4.mb-md-4
             h4.mb-4 Comunicaciones
             p El mantener una comunicación entre el transporte de emergencia y el centro médico de destino es importante para la coordinación y organización de los servicios que permitan salvaguardar la integridad del paciente con el objetivo de brindar una atención oportuna y eficaz ante las lesiones o padecimientos identificados en la atención prehospitalaria.      
-          .col-md-6
+          .col-lg-6.col-md-12
             img.img-a.img-t(src='@/assets/curso/temas/56.png', alt='') 
 
 </template>

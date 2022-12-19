@@ -224,7 +224,7 @@
             img(src='@/assets/curso/temas/38.png' alt='')
           .tarjeta.color-acento-botones
             .p-4
-              p.mb-0 SSi la hemorragia es interna se controla al aplicar frío local sobre la piel, pues contrae los vasos sanguíneos y reduce la formación de hematomas. 
+              p.mb-0 Si la hemorragia es interna se controla al aplicar frío local sobre la piel, pues contrae los vasos sanguíneos y reduce la formación de hematomas. 
 
     h4(data-aos="fade-down").mb-5 Para profundizar en el tema le invito a revisar el Manual de primeros auxilios.
     .row.justify-content-start

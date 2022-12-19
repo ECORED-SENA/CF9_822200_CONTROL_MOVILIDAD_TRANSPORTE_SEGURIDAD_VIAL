@@ -7,7 +7,7 @@
         span 8
       h1 Valoración de la víctima (<i>triage</i>) concepto de anamnesis
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center
       .col-lg-4.my-3 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/75.png', alt='')     
       .col-lg-8.my-3
@@ -27,28 +27,28 @@
         template(v-slot:imagen)
           img.img-a.img-t(src='@/assets/curso/temas/77.png', alt='')
 
-        .tarjeta.color-primario.p-3(x="70%" y="10.3%" numero="+")
+        .tarjeta.color-primario.p-3(x="68%" y="16.5%" numero="+")
           h4.mb-2 Datos personales 
           p.mb-0 Se deben preguntar: nombres completos, sexo y números de contacto.     
-        .tarjeta.color-primario.p-3(x="76%" y="21.5%" numero="+")
+        .tarjeta.color-primario.p-3(x="73.5%" y="25.8%" numero="+")
           h4.mb-2 Carácter de la consulta:
           p.mb-0 Se debe preguntar de manera clara los motivos que generan la consulta y registrarlos correctamente.  
-        .tarjeta.color-primario.p-3(x="78.6%" y="33%" numero="+")
+        .tarjeta.color-primario.p-3(x="76.5%" y="35.5%" numero="+")
           h4.mb-2 Historia de la dolencia: 
           p.mb-0 Se debe tener conocimiento claro sobre el momento de la vida del paciente en que aparecieron los síntomas, bajo qué situación y cuánto tiempo han durado.    
-        .tarjeta.color-primario.p-3(x="81.5%" y="44.3%" numero="+")
+        .tarjeta.color-primario.p-3(x="79%" y="45.2%" numero="+")
           h4.mb-2 Efectos en su vida cotidiana: 
           p.mb-0 Se debe preguntar por los efectos de estas dolencias en su vida normal, es decir: limitaciones o cambios que le ha producido, etc.   
-        .tarjeta.color-primario.p-3(x="81.7%" y="55.5%" numero="+")
+        .tarjeta.color-primario.p-3(x="79.5%" y="54.8%" numero="+")
           h4.mb-2 Aspectos psicosociales 
           p.mb-0 Es necesario conocer los problemas evidenciados en la historia de vida del individuo a nivel psicoemocional, ya que podrían estar ligados a algunas dolencias, por eso es importante identificar los eventos que puedan haber marcado cambios en la personalidad.  
-        .tarjeta.color-primario.p-3(x="78.8%" y="67%" numero="+")
+        .tarjeta.color-primario.p-3(x="76.8%" y="64.5%" numero="+")
           h4.mb-2 Situación personal 
           p.mb-0 Es muy importante conocer la existencia de enfermedades previas y su efecto en los hábitos de vida.  
-        .tarjeta.color-primario.p-3(x="76%" y="78.5%" numero="+")
+        .tarjeta.color-primario.p-3(x="74.2%" y="74%" numero="+")
           h4.mb-2 Historia familiar 
           p.mb-0 Este dato proporciona posibles factores de riesgo o causas ya predeterminadas que puedan evidenciar la existencia de problemas de salud.   
-        .tarjeta.color-primario.p-3(x="70%" y="90%" numero="+")
+        .tarjeta.color-primario.p-3(x="68.5%" y="83.5%" numero="+")
           h4.mb-2 Expectativas frente a los resultados del tratamiento: 
           p.mb-0 Aquí se cuestiona que espera el paciente que suceda en su proceso de tratamiento con el fin de conocer sus expectativas frente a la terapia y los resultados. 
 

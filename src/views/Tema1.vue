@@ -50,28 +50,28 @@
     TabsA.color-acento-botones.mb-5
       .tarjeta.color-acento-botones--borde.p-4(titulo="Compresión") 
         .row.justify-content-center.align-items-start 
-          .col-lg-6
+          .col-lg-6.col-md-12.mb-md-4.mb-sm-4
             h4 Compresión 
             p Cuando el corazón para de latir, deja de recibir la sangre oxigenada, por lo cual se puede ocasionar muerte o daño cerebral en muy poco tiempo, por ello el objetivo de la reanimación es precisamente mantener la circulación de esa sangre oxigenada hacia el cerebro y demás órganos vitales del cuerpo humano, hasta que se logre restablecer el ritmo cardiaco.
 
             p Para esto se debe aplicar presión rítmica y fuerte sobre el pecho de la víctima de paro cardiorrespiratorio, la característica de esta maniobra básica es que no requiere equipo especial ni personal entrenado para realizarla, esta simple técnica puede ser la diferencia entre la vida y la muerte de un individuo.          
-          .col-lg-6          
+          .col-lg-6.col-md-12          
             img.img-a.img-t(src='@/assets/curso/temas/5.png', alt='')
       .tarjeta.color-acento-botones--borde.p-4(titulo="Despeje de vías respiratorias")              
         .row.justify-content-center.align-items-start 
-          .col-lg-6
+          .col-lg-6.col-md-12.mb-md-4.mb-sm-4
             h4 Despeje de vías respiratorias 
             p Estas se abren o despejan con la maniobra conocida como: <i><b>Frente-Mentón</b></i>, la cual consiste en colocar los dedos sobre la frente de la víctima e inclinarse levemente hacia atrás la cabeza, con la otra mano levantar suavemente el mentón, esto abrirá sus vías respiratorias.          
-          .col-lg-6          
+          .col-lg-6.col-md-12          
             img.img-a.img-t(src='@/assets/curso/temas/4.png', alt='')
       .tarjeta.color-acento-botones--borde.p-4(titulo="Respiración de rescate")              
         .row.justify-content-center.align-items-start 
-          .col-lg-6
+          .col-lg-6.col-md-12.mb-md-4.mb-sm-4
             h4 Respiración de rescate 
             p comúnmente conocida como respiración boca-boca, también puede ser boca-nariz (este caso es para cuando la boca de la víctima está severamente lesionada o no se puede abrir)
 
             p El propósito de esta maniobra es suministrar oxígeno a los pulmones de la víctima, una vez despejadas las vías aéreas, utilizando los dedos que están inclinando la cabeza proceda a cerrar la nariz de la víctima, con la otra mano deberá mantener el mentón elevado para que la boca de la víctima permanezca abierta, tome aire y coloque sus labios sobre los labios de la persona afectada, haciendo un sello, proporcione aire firmemente dentro de la víctima por un tiempo de duración de un segundo, observe si el pecho se eleva, sí el pecho no se eleva deberá proporcionar una segunda respiración.          
-          .col-lg-6          
+          .col-lg-6.col-md-12          
             img.img-a.img-t(src='@/assets/curso/temas/6.png', alt='')   
 
     .mb-5.d-flex
@@ -158,7 +158,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Reanimación cardiopulmonar. Fundación Valle de Lili TV.
+                  h4.mb-1 Reanimación cardiopulmonar. Fundación Valle de Lili TV
                   p.mb-0 Reanimación cardiopulmonar en niños, jóvenes y adultos.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=7xzKkzUmj_s " target="_blank")

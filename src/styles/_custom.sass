@@ -32,8 +32,34 @@
   100%
     transform: translateX(0px)
 
+.banner-principal
+  .tarjeta
+    background-position: left
+  .banner-principal__row
+    .banner-principal__info
+      .banner-principal__accion
+        a span, a i
+          color: $white !important
+  @media (max-width: 1194px)
+    .tarjeta
+      background-size: auto
+      background-position: bottom left
+    .banner-principal__row
+      .banner-principal__info
+        padding-right: 0rem
+      
+.banner-principal__row .banner-principal__img
+  width: 20%
+  left: -45px
+  @media (max-width: $bp-max-md)
+    left: 0px
+.banner-principal__row
+  @media (max-width: 1194px)
+    justify-content: start
 .banner-principal__img
-  width: 450px !important    
+  width: 450px !important
+  @media (max-width: 1194px)
+    display: none !important
   
 .titulo-principal.color-acento-contenido .titulo-principal__numero span, .linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
   color: $black
@@ -107,6 +133,7 @@
 .bgprimario
   background-color: #FFD817 !important
 
+
 .img-infografica__card
   z-index: -1
 
@@ -152,8 +179,8 @@
     width: 45px
     height: 45px
   @media (max-width: $bp-max-sm )
-    width: 55px
-    height: 55px  
+    width: 35px
+    height: 35px  
 .slyder-a__bullets__item    
   @media (max-width: 810px)
     width: 15px
@@ -244,3 +271,6 @@
   background-color: #EFEFEF
   *
     color: $color-sistema-texto   
+
+   
+
