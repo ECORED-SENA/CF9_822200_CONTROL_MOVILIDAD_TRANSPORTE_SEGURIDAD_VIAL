@@ -123,22 +123,22 @@
         figure
           img(src='@/assets/curso/temas/31.png', alt='')
 
-      .tarjeta.color-primario.p-3(x="73.5%" y="56%" numero="1")
+      .tarjeta.color-primario.p-3(x="74.3%" y="56%" numero="1")
         h4.mb-2 Cabeza
         p.mb-0 Se revisan heridas o contusiones debajo del cabello y la cara, hemorragias, sangrado por los oídos, lesiones en los ojos y aspecto general del rostro.     
-      .tarjeta.color-primario.p-3(x="67%" y="59%" numero="2")
+      .tarjeta.color-primario.p-3(x="65.5%" y="58%" numero="2")
         h4.mb-2 Cuello
         p.mb-0 Tocarlo con suavidad, en caso de tener que movilizar a los pacientes se tiene que mantener en el mismo sentido de la cabeza y tronco, revisar pulso carotideo y aflojar las prendas de vestir.   
-      .tarjeta.color-primario.p-3(x="63%" y="56%" numero="3")
+      .tarjeta.color-primario.p-3(x="61.2%" y="55%" numero="3")
         h4.mb-2 Torax
         p.mb-0 Revisar heridas o deformaciones de la caja torácica y revisar movimientos respiratorios.     
-      .tarjeta.color-primario.p-3(x="57%" y="58%" numero="4")
+      .tarjeta.color-primario.p-3(x="55.6%" y="57%" numero="4")
         h4.mb-2 Abdomen
         p.mb-0 Revisar heridas, localizar dolores presentes, palpar si el abdomen está duro o depresible, prever posibles lesiones internas.    
-      .tarjeta.color-primario.p-3(x="45%" y="54%" numero="5")
+      .tarjeta.color-primario.p-3(x="43.7%" y="52%" numero="5")
         h4.mb-2 Extremidades
         p.mb-0 Evitar moverlas, compararlas visualmente, buscar heridas, deformaciones, inflamaciones, explorar sensibilidad y movimientos.  
-      .tarjeta.color-primario.p-3(x="60%" y="80%" numero="6")
+      .tarjeta.color-primario.p-3(x="59.3%" y="82%" numero="6")
         h4.mb-2 Espalada
         p.mb-0 Revisa posibles fracturas vertebrales y lesiones en la médula. 
 
