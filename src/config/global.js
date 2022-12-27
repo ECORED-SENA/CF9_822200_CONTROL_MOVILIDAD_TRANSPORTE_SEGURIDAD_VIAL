@@ -218,8 +218,7 @@ export default {
     },
     {
       referencia: '<i>Medline plus</i>. (s.f). RPC.',
-      link:
-        'http://publicacionesmedicina.uc.cl/ManualSemiologia/130Facies.html',
+      link: 'https://medlineplus.gov/spanish/ency/article/000010.htm',
     },
     {
       referencia: 'Publicaciones Médicas. (2007). <i>Manual de Semiología.</i>',

@@ -90,10 +90,10 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Estudio de caso. (SIN LINK) 
+                  h4.mb-1 Estudio de caso.
                   p.mb-0 Correlación clínica del <i>triage</i> con el diagnóstico clínico de ingreso y egreso realizado con los pacientes que acuden al servicio médico en urgencias de un hospital privado.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=85qzAbncauM" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(href="https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0186-48662017000400466" target="_blank")
                     span Ver enlace
                     i.fas.fa-link               
 </template>

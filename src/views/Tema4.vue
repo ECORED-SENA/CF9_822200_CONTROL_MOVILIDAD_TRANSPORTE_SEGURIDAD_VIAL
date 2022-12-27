@@ -23,22 +23,22 @@
 
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg8")(data-aos="fade-right")
-      .row.justify-content-center.align-items-star(titulo="Subtema 1")
+      .row.justify-content-center.align-items-star(titulo="Conocimientos sobre primeros auxilios")
         .col-lg-7 
           p La persona encargada de brindar los primeros auxilios debe contar con el conocimiento y los instrumentos necesarios para poder asistir al paciente.           
         .col-lg-5
           img.img-a.img-t(src='@/assets/curso/temas/49.png', alt='')   
-      .row.justify-content-center.align-items-star(titulo="Subtema 2")
+      .row.justify-content-center.align-items-star(titulo="Vehículos de emergencias")
         .col-lg-7 
           p Se debe contar con vehículos de emergencias que tengan el equipamiento necesario y los medios de comunicación para poder realizar el traslado del paciente.           
         .col-lg-5
           img.img-a.img-t(src='@/assets/curso/temas/50.png', alt='') 
-      .row.justify-content-center.align-items-star(titulo="Subtema 3")
+      .row.justify-content-center.align-items-star(titulo="Conocimiento de los centros médicos de atención")
         .col-lg-7 
           p Es importante tener conocimiento de los centros médicos de atención y la infraestructura con la que cuentan para poder determinar el traslado del paciente de acuerdo a la gravedad y complejidad de las heridas presentadas, en este punto es primordial la categorización del triage del paciente para determinar las necesidades del mismo.           
         .col-lg-5
           img.img-a.img-t(src='@/assets/curso/temas/51.png', alt='') 
-      .row.justify-content-center.align-items-star(titulo="Subtema 4")
+      .row.justify-content-center.align-items-star(titulo="Clasificación de los pacientes")
         .col-lg-7 
           p Para los casos en los que se presentan múltiples heridos que requieren ser trasladados a centros médicos es indispensable realizar la clasificación de los pacientes de acuerdo a la gravedad y urgencia, y priorizar el orden de atención, en lo posible ir identificando a los pacientes con alguna marca por colores o escarapela de acuerdo al orden de prioridad.            
         .col-lg-5
