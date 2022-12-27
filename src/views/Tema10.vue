@@ -39,7 +39,7 @@
         .row.justify-content-center.align-items-start
           .col-md-5.mb-4.mb-md-0
             h4.mb-4 Vehículo que efectúa el traslado del paciente 
-            p Dicho traslado se efectuará en la ambulancia que se encuentre de turno, con personal con entrenamiento de  primeros auxilios, dejando el registro del vehículo en el cual se traslada al paciente, en dicho caso en el que el paciente requiera el acompañamiento familiar solo podrá ir acompañado de una persona o familiar responsable, de lo contrario deberá registrarse y hacer el debido proceso legal y de acuerdo al grado de complejidad se establecerá si durante el traslado el paciente ira acompañado de personal auxiliar de enfermería o de un médico.
+            p Dicho traslado se efectuará en la ambulancia que se encuentre de turno, con personal con entrenamiento de  primeros auxilios, dejando el registro del vehículo en el cual se traslada al paciente, en dicho caso en el que el paciente requiera el acompañamiento familiar solo podrá ir acompañado de una persona o familiar responsable, de lo contrario deberá registrarse y hacer el debido proceso legal y de acuerdo al grado de complejidad se establecerá si durante el traslado el paciente irá acompañado de personal auxiliar de enfermería o de un médico.
           .col-md-6
             img.img-a.img-t(src='@/assets/curso/temas/91.png', alt='') 
         .row.justify-content-center.align-items-start

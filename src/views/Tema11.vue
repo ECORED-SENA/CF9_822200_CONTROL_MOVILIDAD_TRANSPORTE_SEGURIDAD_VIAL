@@ -71,13 +71,13 @@
     ul.lista-ul.mb-0
       li 
         i.fas.fa-check.colorv
-        p.mb-0 Falta de movimiento o pérdida de sensibilidad en alguna parte del cuerpo,
+        p.mb-0 Falta de movimiento o pérdida de sensibilidad en alguna parte del cuerpo.
       li 
         i.fas.fa-check.colorv
-        p.mb-0 Pérdida de conciencia, 
+        p.mb-0 Pérdida de conciencia. 
       li 
         i.fas.fa-check.colorv
-        p.mb-0 Señales de traumatismo o
+        p.mb-0 Señales de traumatismo.
       li 
         i.fas.fa-check.colorv
         p.mb-0 Daño en la columna cervical, previo al traslado se debe efectuar la inmovilización del eje de la cabeza, cuello y tronco de la víctima.  
@@ -102,7 +102,7 @@
 
     p(data-aos="fade-down") A manera de conclusión es vital que una persona que preste los primeros auxilios y que haga las veces de primer respondiente tenga conocimientos claros sobre cómo hacer el manejo del paciente de forma adecuada, lo cual necesariamente incluye estar en capacidad de hacer una evaluación del estado básico del paciente, tener los conocimientos suficientes para tomar las decisiones adecuadas para moverlo o trasladarlo si se requiere, o sí es preferible esperar al personal de emergencias.
 
-    p(data-aos="fade-down").mb-5 Por otro lado, cuando es llevado al centro de salud más cercano es recibido por el personal médico donde le hacen una evaluación del estado de salud general, es decir un triage y definen el procedimiento a seguir, según las condiciones del paciente, si es remitido a uno de mayor nivel o si continúa en el mismo sitio y con cual tipo de atención requiere.
+    p(data-aos="fade-down").mb-5 Por otro lado, cuando es llevado al centro de salud más cercano es recibido por el personal médico donde le hacen una evaluación del estado de salud general, es decir un <i>triage</i> y definen el procedimiento a seguir, según las condiciones del paciente, si es remitido a uno de mayor nivel o si continúa en el mismo sitio y con cual tipo de atención requiere.
 </template>
 
 <script>

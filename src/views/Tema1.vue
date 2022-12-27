@@ -25,7 +25,7 @@
 
           p(data-aos="fade-down") Generalmente conocida como RCP y significa Reanimación Cardiopulmonar, es un conjunto de maniobras y técnicas que se utiliza en situaciones de emergencia en procura de salvar la vida de una persona víctima de una descarga eléctrica, un ataque cardiaco o ahogo, por lo que se evidencia ausencia de respiración o que el corazón ha dejado de palpitar, además hay estado de inconsciencia, lo cual, es una señal de alarma muy importante que indica que se debe actuar de manera inmediata.
 
-          p(data-aos="fade-down") Entre más rápido se actué incrementará la posibilidad de mantener con vida a la persona afectada, por lo que cada minuto cuenta, por eso se hace énfasis en que quien decida intervenir y auxiliar a la víctima debe mantener la calma, tomar las mejores decisiones y actuar oportunamente, cada minuto se vuelve vital, por lo que si se retrasa la aplicación de la reanimación podría disminuir en un 10% la posibilidad de supervivencia del individuo.
+          p(data-aos="fade-down") Entre más rápido se actúe incrementará la posibilidad de mantener con vida a la persona afectada, por lo que cada minuto cuenta, por eso se hace énfasis en que quien decida intervenir y auxiliar a la víctima debe mantener la calma, tomar las mejores decisiones y actuar oportunamente, cada minuto se vuelve vital, por lo que si se retrasa la aplicación de la reanimación podría disminuir en un 10% la posibilidad de supervivencia del individuo.
       .col-lg-5.my-3 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/3.png', alt='') 
 
@@ -37,9 +37,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/17Xbyez6qI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
-
-    p(data-aos="fade-down").mb-5 En adición, existen 3 pasos básicos que hacen parte de estas técnicas de reanimación RCP, los cuales se describen a continuación: 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/6fDvRfIwDbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: black; border-radius: 5px;")
@@ -68,7 +66,7 @@
         .row.justify-content-center.align-items-start 
           .col-lg-6.col-md-12.mb-md-4.mb-sm-4
             h4 Respiración de rescate 
-            p comúnmente conocida como respiración boca-boca, también puede ser boca-nariz (este caso es para cuando la boca de la víctima está severamente lesionada o no se puede abrir)
+            p Comúnmente conocida como respiración boca-boca, también puede ser boca-nariz (este caso es para cuando la boca de la víctima está severamente lesionada o no se puede abrir).
 
             p El propósito de esta maniobra es suministrar oxígeno a los pulmones de la víctima, una vez despejadas las vías aéreas, utilizando los dedos que están inclinando la cabeza proceda a cerrar la nariz de la víctima, con la otra mano deberá mantener el mentón elevado para que la boca de la víctima permanezca abierta, tome aire y coloque sus labios sobre los labios de la persona afectada, haciendo un sello, proporcione aire firmemente dentro de la víctima por un tiempo de duración de un segundo, observe si el pecho se eleva, sí el pecho no se eleva deberá proporcionar una segunda respiración.          
           .col-lg-6.col-md-12          
@@ -85,7 +83,7 @@
       .col-lg-8.my-3 
         p(data-aos="fade-down") La combinación de estas técnicas mencionadas anteriormente serán la herramienta perfecta para ayudar a mantener con vida a la víctima y que las posibilidades de sufrir daños cerebrales disminuyan, lo primordial es lograr estabilizar a la persona mientras llega el personal especializado.
         .bg2.p-4
-          p(data-aos="fade-down").mb-0 Antes de iniciar con PCR se deberá revisar si el lugar donde se encuentra es seguro, de no ser así se deberá desplazar a un lugar donde se pueda maniobrar con mayor facilidad, teniendo en cuenta que se debe mover lo menos posible a la persona, revisar el estado de conciencia o inconciencia y en la medida de lo posible llamar a los servicios de emergencias, porque la situación se puede agravar y se necesitará ayuda de personal y equipo calificado. 
+          p(data-aos="fade-down").mb-0 Antes de iniciar con PCR se deberá revisar si el lugar donde se encuentra es seguro, de no ser así se deberá desplazar a un lugar donde se pueda maniobrar con mayor facilidad, teniendo en cuenta que se debe mover lo menos posible a la persona, revisar el estado de conciencia o inconsciencia y en la medida de lo posible llamar a los servicios de emergencias, porque la situación se puede agravar y se necesitará ayuda de personal y equipo calificado. 
 
     h4(data-aos="fade-down").mb-5 Algunos aspectos importantes a tener en cuenta al momento de aplicar estas técnicas son:
 

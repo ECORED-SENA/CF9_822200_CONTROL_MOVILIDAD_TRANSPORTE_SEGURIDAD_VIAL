@@ -30,13 +30,13 @@
         ul.lista-ul.mb-0
           li 
             i.fas.fa-check.colorv
-            p.mb-0 Lo referente a la escena del accidente, 
+            p.mb-0 Lo referente a la escena del accidente. 
           li 
             i.fas.fa-check.colorv
-            p.mb-0 Las condiciones iniciales, los antecedentes médicos, 
+            p.mb-0 Las condiciones iniciales, los antecedentes médicos. 
           li 
             i.fas.fa-check.colorv
-            p.mb-0 Las alergias a medicamentos, 
+            p.mb-0 Las alergias a medicamentos. 
           li 
             i.fas.fa-check.colorv
             p.mb-0 Los medicamentos que el paciente usa actualmente, las patologías de base, etc.… 

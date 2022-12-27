@@ -14,8 +14,8 @@
         .bg3.p-4
           p(data-aos="fade-down") Dentro del proceso de valoración y como un mecanismo para tener de primera mano la información del paciente, aparece la anamnesis, la cual básicamente es un proceso de la exploración clínica que recopila datos a través de un interrogatorio-diálogo con el fin de conocer directamente del paciente aspectos relevantes de su situación de salud.
 
-          p(data-aos="fade-down").mb-0 Lo anterior, es diferente al triage, que proviene de la palabra francesa trier definida como separar o clasificar, utilizada desde las batallas napoleónicas para priorizar la atención urgente de los heridos y pacientes.	      
-    figcaption.mb-5 Nota. Triage en paciente.
+          p(data-aos="fade-down").mb-0 Lo anterior, es diferente al <i>triage</i>, que proviene de la palabra francesa trier definida como separar o clasificar, utilizada desde las batallas napoleónicas para priorizar la atención urgente de los heridos y pacientes.	      
+    figcaption.mb-5 Nota. <i>Triage</i> en paciente.
 
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: black; border-radius: 5px;")
@@ -52,7 +52,7 @@
           h4.mb-2 Expectativas frente a los resultados del tratamiento: 
           p.mb-0 Aquí se cuestiona que espera el paciente que suceda en su proceso de tratamiento con el fin de conocer sus expectativas frente a la terapia y los resultados. 
 
-    p(data-aos="fade-down").my-5 Una vez se define lo anterior, el triage va a permitir la priorización de los pacientes según el riesgo clínico, lo que permite dar un manejo a la cantidad de pacientes cuando la demanda y las necesidades clínicas desbordan los recursos disponibles.
+    p(data-aos="fade-down").my-5 Una vez se define lo anterior, el <i>triage</i> va a permitir la priorización de los pacientes según el riesgo clínico, lo que permite dar un manejo a la cantidad de pacientes cuando la demanda y las necesidades clínicas desbordan los recursos disponibles.
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
       .bloque-texto-g__img(
@@ -62,7 +62,7 @@
         h5.mb-0 Importante…
           br
           br
-          | El triage maneja unas escalas, #[b.or 5 niveles de categorización], aplicando la máxima que dice que lo urgente no siempre es grave y lo grave no es siempre urgente y así se logra realizar una clasificación de pacientes de acuerdo a su grado de urgencia, de tal manera que los más urgentes serán atendidos primero y el resto serán evaluados en varias ocasiones hasta ser valorados por el área médica.   
+          | El <i>triage</i> maneja unas escalas, #[b.or 5 niveles de categorización], aplicando la máxima que dice que lo urgente no siempre es grave y lo grave no es siempre urgente y así se logra realizar una clasificación de pacientes de acuerdo a su grado de urgencia, de tal manera que los más urgentes serán atendidos primero y el resto serán evaluados en varias ocasiones hasta ser valorados por el área médica.   
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10(data-aos="flip-down")
@@ -73,8 +73,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Triage 
-                  p Sabe qué es el triage y por qué es importante en un servicio de salud…
+                  h4.mb-1 <i>Triage</i> 
+                  p Sabe qué es el <i>triage</i> y por qué es importante en un servicio de salud…
                   p.mb-0 Secretaria de salud de Zipaquirá
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=85qzAbncauM" target="_blank")
@@ -91,7 +91,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Estudio de caso. (SIN LINK) 
-                  p.mb-0 Correlación clínica del triage con el diagnóstico clínico de ingreso y egreso realizado con los pacientes que acuden al servicio médico en urgencias de un hospital privado.
+                  p.mb-0 Correlación clínica del <i>triage</i> con el diagnóstico clínico de ingreso y egreso realizado con los pacientes que acuden al servicio médico en urgencias de un hospital privado.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=85qzAbncauM" target="_blank")
                     span Ver enlace

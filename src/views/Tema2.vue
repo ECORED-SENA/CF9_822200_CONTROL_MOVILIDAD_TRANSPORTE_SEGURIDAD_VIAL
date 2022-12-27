@@ -12,16 +12,16 @@
         ul.lista-ul.mb-0(data-aos="fade-down")
           li 
             i.fas.fa-check.colorv
-            p.mb-0 La apertura de ojos frente a estímulos, 
+            p.mb-0 La apertura de ojos frente a estímulos. 
           li 
             i.fas.fa-check.colorv
-            p.mb-0 Las respuestas verbales, 
+            p.mb-0 Las respuestas verbales. 
           li 
             i.fas.fa-check.colorv
-            p.mb-0 La posición de los ojos cuando este en reposo, 
+            p.mb-0 La posición de los ojos cuando este en reposo. 
           li 
             i.fas.fa-check.colorv
-            p.mb-0 La dilatación de la pupila frente a estímulos como la luz y 
+            p.mb-0 La dilatación de la pupila frente a estímulos como la luz. 
           li 
             i.fas.fa-check.colorv
             p.mb-0 La respuesta de sus extremidades frente a los estímulos, etc.                        
@@ -66,49 +66,49 @@
           img.img-a.img-t.mb-4(src='@/assets/curso/temas/20.png' alt='')
           h4.text-center Condición crítica 
           p.mb-0 En este estado los signos vitales son inestables y están fuera de los parámetros o límites normales. Se puede dar la condición en que el paciente esté inconsciente y los indicadores de su condición sean muy desfavorables. 
-    p(data-aos="fade-down").mb-5 Además, existen algunas características para determinar las condiciones generales del paciente, basados en las facies o expresiones de la cara, que se pueden evidenciar en un examen físico general, pues orienta a ciertos rasgos característicos de alguna enfermedad determinada, entre las cuales se encuentran:
+    p(data-aos="fade-down").mb-5 Además, existen algunas características para determinar las condiciones generales del paciente, basados en las <i>facies</i> o expresiones de la cara, que se pueden evidenciar en un examen físico general, pues orienta a ciertos rasgos característicos de alguna enfermedad determinada, entre las cuales se encuentran:
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: black; border-radius: 5px;")
         img(src='@/assets/curso/temas/v.svg' style="max-width: 32px; margin-left: -16px;" data-aos="fade-right")
-        h4.col.ps-3.mb-0.text-white(data-aos="fade-right") Facies o expresiones de la cara
+        h4.col.ps-3.mb-0.text-white(data-aos="fade-right") <i>Facies</i> o expresiones de la cara
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       SlyderF(columnas="col-lg-6 col-xl-4")
         .bg3.p-4.brad.h-100
           img.img-a.img-t.mb-4(src='@/assets/curso/temas/21.png' alt='')
-          h4.text-center Facie acromegálica 
+          h4.text-center <i>Facie</i> acromegálica 
           p.mb-0 Se caracteriza por prominencia de la mandíbula, crecimiento de huesos y tejidos blandos, lengua grande. Esta condición se da en pacientes con tumores hipofisarios debido a hormonas de crecimiento. 
         .bg3.p-4.brad.h-100
           img.img-a.img-t.mb-4(src='@/assets/curso/temas/22.png' alt='')
-          h4.text-center Facie cushingoide 
+          h4.text-center <i>Facie</i> cushingoide 
           p.mb-0 La cara se ve más redonda, piel más fina y mayor cantidad de vellos y acné. Se presenta por exceso de corticoides. 
         .bg3.p-4.brad.h-100
           img.img-a.img-t.mb-4(src='@/assets/curso/temas/23.png' alt='')
-          h4.text-center Facie hipertiroidia 
+          h4.text-center <i>Facie</i> hipertiroidia 
           p.mb-0 Mirada expresiva por retracción del párpado superior; la piel se aprecia fina y húmeda. Se asocia a un exceso de hormonas tiroideas. 
         .bg3.p-4.brad.h-100
           img.img-a.img-t.mb-4(src='@/assets/curso/temas/24.png' alt='')
-          h4.text-center Facie hipotiroidia o mixedematosa 
+          h4.text-center <i>Facie</i> hipotiroidia o mixedematosa 
           p.mb-0 Destaca la poca expresividad del rostro, asociado a déficit de hormona tiroidea. 
         .bg3.p-4.brad.h-100
           img.img-a.img-t.mb-4(src='@/assets/curso/temas/25.png' alt='')
-          h4.text-center Facie hipocrática 
+          h4.text-center <i>Facie</i> hipocrática 
           p.mb-0 En enfermedades como peritonitis o shock (colapso circulatorio). Se caracteriza por un perfil enjuto (delgado), con ojos hundidos, ojeras, palidez y sudor frío. 
         .bg3.p-4.brad.h-100
           img.img-a.img-t.mb-4(src='@/assets/curso/temas/26.png' alt='')
-          h4.text-center Facie mongólica 
-          p.mb-0 Facie del síndrome de Down. 
+          h4.text-center <i>Facie</i> mongólica 
+          p.mb-0 <i>Facie</i> del síndrome de Down. 
         .bg3.p-4.brad.h-100
           img.img-a.img-t.mb-4(src='@/assets/curso/temas/27.png' alt='')
-          h4.text-center Facie parkinsoniana 
+          h4.text-center <i>Facie</i> parkinsoniana 
           p.mb-0 se ve en pacientes con enfermedad de Parkinson.  
         .bg3.p-4.brad.h-100
           img.img-a.img-t.mb-4(src='@/assets/curso/temas/28.png' alt='')
-          h4.text-center Facie febril 
+          h4.text-center <i>Facie</i> febril 
           p.mb-0 Se caracteriza por rubor en las mejillas, ojos brillantes. 
         .bg3.p-4.brad.h-100
           img.img-a.img-t.mb-4(src='@/assets/curso/temas/29.png' alt='')
-          h4.text-center Facie mitralica 
+          h4.text-center <i>Facie</i> mitralica 
           p.mb-0 Las mejillas se presentan con un rubor cianótico.                                                       
     p(data-aos="fade-down").mb-5 Se debe incluir en esta serie de procedimientos una valoración global del estado del paciente:
     img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/30.svg', alt='')
@@ -147,7 +147,7 @@
         img(src='@/assets/curso/temas/v.svg' style="max-width: 32px; margin-left: -16px;" data-aos="fade-right")
         h4.col.ps-3.mb-0.text-white(data-aos="fade-right") Clasificación de las hemorragias 
 
-    p(data-aos="fade-down").mb-5 Por otro lado, en una situación donde la vida de una persona peligra, es importante tener en cuenta que cuando hay heridos producto de los accidentes viales, en especial con hemorragias abundantes (hace referencia a la salida de sangre de los vasos sanguíneos por traumatismos de manera cortante o por contusión) que pueden causar el desangre de la persona y por último la pérdida de la vida, se debe tener sumo cuidado, por lo que es imperativo conocer su clasificación para poder en un momento dado saber manejarlas adecuadamente. 
+    p(data-aos="fade-down").mb-5 Por otro lado, en una situación donde la vida de una persona peligra, es importante tener en cuenta que cuando hay heridos producto de los accidentes viales, en especial con hemorragias abundantes (hace referencia a la salida de sangre de los vasos sanguíneos por traumatismos de manera cortante o por contusión) que pueden causar él desangre de la persona y por último la pérdida de la vida, se debe tener sumo cuidado, por lo que es imperativo conocer su clasificación para poder en un momento dado saber manejarlas adecuadamente. 
 
     .bg6
       img.img-a.img-t.py-4(data-aos="zoom-in")(src='@/assets/curso/temas/33.png', alt='')
@@ -215,7 +215,7 @@
             img(src='@/assets/curso/temas/37.png' alt='')
           .tarjeta.color-acento-botones
             .p-4
-              p.mb-0 Si la hemorragia es venosa o arterial se debe revisar el abdomen, si está sensible, rígido, presenta mareos, palidez o vómito con sangre, es vital llevarlo al médico etc.
+              p.mb-0 Si la hemorragia es venosa o arterial se debe revisar el abdomen, si está sensible, rígido, presenta mareos, palidez o vómito con sangre, es vital llevarlo al médico, etc.
 
     .row.justify-content-center
       .col-lg-5.mb-3(data-aos="fade-down")

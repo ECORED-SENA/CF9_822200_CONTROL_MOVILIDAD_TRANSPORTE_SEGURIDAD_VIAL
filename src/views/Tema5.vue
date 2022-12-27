@@ -23,7 +23,7 @@
             i.fas.fa-check.colorv
             p.mb-0 Temperatura, entre otros.
 
-        p(data-aos="fade-down") Toda la información que se pueda tener del paciente en la vía es fundamental pues estos valores se convierten en un indicador del estado de salud, esta observación va acompañada de la información suministrada por el paciente (antecedentes, síntomas, evolución de la enfermedad, respuesta del organismo a tratamientos, etc.)                      
+        p(data-aos="fade-down") Toda la información que se pueda tener del paciente en la vía es fundamental pues estos valores se convierten en un indicador del estado de salud, esta observación va acompañada de la información suministrada por el paciente (antecedentes, síntomas, evolución de la enfermedad, respuesta del organismo a tratamientos, etc.).                     
       .col-lg-5.my-3 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/57.png', alt='') 
 
@@ -41,7 +41,7 @@
               img.img-a.img-t(src='@/assets/curso/temas/58.png', alt='')      
           .row.justify-content-center.align-items-star(titulo="Monitoreo instrumental")
             .col-lg-7 
-              p Es un control y seguimiento del estado del paciente que se basa en la mera observación y el examen físico, donde se pueden notar rasgos como: color de la piel (palidez, color amarillo, enrojecimiento), respuesta a estímulos, entre otros y sin la necesidad del uso de dispositivos electrónicos.          
+              p Es la utilización de equipos e instrumentos más complejos que pueden ser invasivos o no invasivos, que arrojaran información más certera del estado del paciente, estos dispositivos requieren de entrenamiento para su adecuado uso y deben estar perfectamente calibrados (los que así lo requieran) para que no suministren información errónea.         
             .col-lg-5
               img.img-a.img-t(src='@/assets/curso/temas/59.png', alt='')  
 
@@ -61,10 +61,10 @@
             ul.lista-ul.mb-0
               li 
                 i.fas.fa-check.colorv
-                p.mb-0 El estetoscopio (aparato acústico por medio del cual se oyen los sonidos internos del cuerpo) 
+                p.mb-0 El estetoscopio (aparato acústico por medio del cual se oyen los sonidos internos del cuerpo). 
               li 
                 i.fas.fa-check.colorv
-                p.mb-0 El termómetro y
+                p.mb-0 El termómetro.
               li 
                 i.fas.fa-check.colorv
                 p.mb-0 El tensiómetro por mencionar algunos.

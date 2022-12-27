@@ -59,16 +59,16 @@
             ul.lista-ul.mb-0
               li 
                 i.fas.fa-check.colorv
-                p.mb-0 Pérdida de conciencia, 
+                p.mb-0 Pérdida de conciencia. 
               li 
                 i.fas.fa-check.colorv
-                p.mb-0 Afectación de la columna cervical, 
+                p.mb-0 Afectación de la columna cervical. 
               li 
                 i.fas.fa-check.colorv
-                p.mb-0 Presencia de hemorragias, 
+                p.mb-0 Presencia de hemorragias. 
               li 
                 i.fas.fa-check.colorv
-                p.mb-0 Dificultad respiratoria o 
+                p.mb-0 Dificultad respiratoria. 
               li 
                 i.fas.fa-check.colorv
                 p.mb-0 Signos de afectación neurológica, tales como: desorientación, parálisis, desequilibrio o episodios de falta de reacción, entre otros.                   
@@ -81,10 +81,10 @@
             ul.lista-ul.mb-0
               li 
                 i.fas.fa-check.colorv
-                p.mb-0 La distancia a un centro médico, 
+                p.mb-0 La distancia a un centro médico. 
               li 
                 i.fas.fa-check.colorv
-                p.mb-0 El transporte para realizar un traslado y 
+                p.mb-0 El transporte para realizar un traslado. 
               li 
                 i.fas.fa-check.colorv
                 p.mb-0 Los instrumentos y/o elementos para realizar una reanimación efectiva garantizando la seguridad del paciente, en caso que sea indispensable efectuarla se deben asegurar las vías aéreas y la ventilación controlando el pulso, la tensión arterial y el suministro de oxígeno al paciente.                   
@@ -104,7 +104,7 @@
             ul.lista-ul.mb-0.ps-4
               li 
                 i.fas.fa-check
-                p.mb-0 Disminuir y controlar el sangrado, 
+                p.mb-0 Disminuir y controlar el sangrado. 
               li 
                 i.fas.fa-check
                 p.mb-0 Estabilizar el cuerpo y proteger la columna cervical de cualquier lesión, inmovilizando las fracturas que presenta el paciente.

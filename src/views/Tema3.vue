@@ -57,7 +57,7 @@
             img.img-a.img-t(src='@/assets/curso/temas/46.png', alt='') 
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 4. 
+      h5 Figura 1. 
       span Aseguramiento del paciente previo a la reanimación.
       
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-2(data-aos="fade-left")
